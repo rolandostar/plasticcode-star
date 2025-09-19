@@ -15,7 +15,7 @@
             {
                 "label": "Plastic Code Star",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Plastic Code Star-color-theme.json"
+                "path": "./themes/PlasticCodeStar-color-theme.json"
             }
         ]
     }
