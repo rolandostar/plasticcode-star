@@ -1,0 +1,22 @@
+{
+    "name": "plasticcodestar",
+    "displayName": "PlasticCodeStar",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "rolandostar",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Plastic Code Star",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Plastic Code Star-color-theme.json"
+            }
+        ]
+    }
+}
